@@ -14,7 +14,7 @@ Welcome to my learning showcase! This repository tracks my journey, courses comp
   - **Logic Building:** Problem decomposition and step-by-step analytical thinking.
   - **Core Building Blocks:** Basic concepts of variables, data types, and conditions.
 
-![01 - Programming Foundations - Level 1](./certificate-of-completion-for-programming-foundations-level-1.jpg)
+![01 - Programming Foundations - Level 1](./certificate-of-completion-for-programming-foundations-level-1.png)
 
 ---
 
@@ -39,7 +39,7 @@ Welcome to my learning showcase! This repository tracks my journey, courses comp
   - **Arrays & Search Logic:** Defining arrays, iteration techniques, element searching, and using `break`/`continue`.
   - **Functions:** Modular code design, functions, and parameter passing.
 
-![03 - Introduction to Programming with C++ - Level 1](./certificate-of-completion-for-introduction-to-programming-using-c-level-1%20(1).pdf)
+![03 - Introduction to Programming with C++ - Level 1](./certificate-of-completion-for-introduction-to-programming-using-c-level-1_page-0001.jpg)
 
 ---
 
